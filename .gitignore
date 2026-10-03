@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# C / C++
+*.o
+*.out
+*.exe
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Spreadsheet lock files
+~$*
+#You can add anything that you think git should not track over here
