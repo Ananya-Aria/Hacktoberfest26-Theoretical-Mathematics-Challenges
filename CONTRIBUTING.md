@@ -50,6 +50,8 @@ On Windows without a terminal, you can create the folder by hand. The result mus
 
 Put your work in that folder, in any format: a `solution.md`, a scanned PDF of handwritten pages, or photos. Keep each file under 2 MB. The end of the task's README lists what we expect to see. (Git only notices a folder once it has a file in it.)
 
+**Only add or change files inside your own folder.** Everyone works in their own folder, so pull requests never clash with each other (no merge conflicts), everyone can name their file `solution.md`, and nobody can accidentally overwrite someone else's work.
+
 ## 6. Commit your work
 
 ```bash
@@ -97,7 +99,7 @@ git switch -c 1b
 
 The first time you push the new branch, use `git push -u origin 1b`. After that, `git push` is enough.
 
-If you guys dont like fetch and merge, you can do a pull. In essence pull = fetch + merge. 
+If you don't like fetch and merge, you can do `git pull upstream main` instead: pull = fetch + merge. Plain `git pull` won't work here, because it pulls from your own fork, not from the Enigma repository.
 
 ---
 
