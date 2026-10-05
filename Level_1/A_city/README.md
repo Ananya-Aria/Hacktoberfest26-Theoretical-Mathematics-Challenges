@@ -54,7 +54,7 @@ Your Enigma number adds extra bridges:
 
 
 
-If you guys do all the bonus problems, well then, mogambo khush hua. 
+If you guys do all the bonus problems, well then, https://www.youtube.com/watch?v=-xjzG2wPP1M  
 
 - The real Königsberg had 4 pieces of land, with 5, 3, 3 and 3 bridges touching them. Use your rule to explain why Euler said no.
 - If your walk is impossible, what's the smallest number of bridges you could add to make it possible, and where?
