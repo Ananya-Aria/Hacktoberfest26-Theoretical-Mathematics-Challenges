@@ -1,8 +1,8 @@
-# 1C: The slowest GCD
+# 1C: The Chocolate Bar
 
 Part of [Level 1: Observe](../README.md). You need your **Enigma number E** (see the [main README](../../README.md#your-enigma-number-e)). The examples use E = 4671, from the username `math-cat7`.
 
-**What to submit:** one pull request that adds your work to `Level_1/C_slowest_gcd/<your-github-username>/`. Any format is fine: a `solution.md`, a scanned PDF of handwritten pages, or photos of your pages. Keep each file under 2 MB.
+**What to submit:** one pull request that adds your work to `Level_1/C_CForChocolate/<your-github-username>/`. Any format is fine: a `solution.md`, a scanned PDF of handwritten pages, or photos of your pages. Keep each file under 2 MB.
 
 ---
 
@@ -10,7 +10,7 @@ Part of [Level 1: Observe](../README.md). You need your **Enigma number E** (see
 
 You have a chocolate bar **a** cm by **b** cm. Each round, cut off as many of the biggest possible squares as fit. Repeat on the leftover piece until nothing is left. The side of the last square is the **GCD** (greatest common divisor) of a and b, and the number of rounds is the number of **steps**.
 
-This is one of the oldest algorithms still in use. It's in Euclid's book *Elements*, written around 300 BC.
+This is one of the oldest algorithms still in use. It's in Euclid's book *Elements*, written around 300 BC, or so I hope, google it and raise a issue if I'm wrong (thanks).
 
 Example: an 8 × 5 bar. Round 1: cut one 5 × 5 square, leaving 5 × 3. Round 2: cut one 3 × 3 square, leaving 3 × 2. Round 3: cut one 2 × 2 square, leaving 2 × 1. Round 4: cut two 1 × 1 squares, and nothing is left. That's **4 steps**, and the GCD is 1.
 
@@ -42,7 +42,7 @@ Example: 4671 ÷ 70 leaves remainder 51, so N = 81.
 
 ## What we expect to see
 
-This is a guideline, not a form. Your work should cover these points, in any format. If you write a `solution.md`, these headings make a good outline:
+This is just a guideline. Your work should cover these points, in any format. If you write a `solution.md`, these headings make a good outline:
 
 ```
 # 1C: <your-github-username>
@@ -51,7 +51,7 @@ This is a guideline, not a form. Your work should cover these points, in any for
 
 E = (show your working)
 
-## 1C: The slowest GCD
+## 1C: C_CForChocolate
 
 My N (with working):
 
