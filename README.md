@@ -1,4 +1,5 @@
 # Hacktoberfest 2026 : Theoretical & Mathematical Committee @ Enigma
+Hello World :)
 
 Guess -> Work it out -> Explain why
 
